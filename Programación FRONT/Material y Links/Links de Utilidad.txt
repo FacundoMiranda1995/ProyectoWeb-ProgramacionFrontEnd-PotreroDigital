@@ -1,0 +1,24 @@
+Google Fonts:  https://fonts.google.com/
+
+Color Picker:  https://www.google.com/search?q=color+picker&oq=color&gs_lcrp=EgZjaHJvbWUqDwgCEAAYQxiDARixAxiKBTIMCAAQABhDGLEDGIoFMgYIARBFGDkyDwgCEAAYQxiDARixAxiKBTIPCAMQABhDGIMBGLEDGIoFMgwIBBAAGEMYsQMYigUyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyBggHEEUYQdIBCDU1MDNqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Randoma11y:  https://randoma11y.com/
+
+Covercons:  https://covercons.vercel.app/
+
+Codioful:  https://codioful.com/
+
+Hero Patterns:  https://heropatterns.com/
+
+Haikei:  https://app.haikei.app/
+
+Bootstrap:  https://getbootstrap.com/
+
+Formspree:  https://formspree.io/
+
+FreeCodeCamp:  https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+CSS Reference: https://cssreference.io/
+
+CSS Reference 2: https://www.w3schools.com/cssref/index.php
+

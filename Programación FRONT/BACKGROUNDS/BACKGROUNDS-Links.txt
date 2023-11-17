@@ -1,0 +1,16 @@
+Colores
+
+Randoma11y: https://randoma11y.com/
+Color Picker Google: https://www.google.com/search?si=ALGXSlYng1nfZwykqlDA4yajLQjyclkF9UjhmbVb3K9PNsFZelg93lq3tM7kGF17x_lppw3h4dCcTm5Psc44oNXHs5QNQkBBayDLbxgrNsB_GJ2OAzrNRB6KrfjJQSFGfzLnCzHbs72W_ievH7v6NisNXpCWYAlent2HRUGZqJdNZIywgCySQPy8cBmy2SN0e2PiDtMn8KmGZxTxkL80eyZy5Y9RxArialIJhLFAtsKkfBWEU_6Jg50-UWCCUU6LQ2jwwTVEkfUEGkzli7sUOYpnqykfLiW8S2UWM09yl0gLCvOr8N2U9HE4rnSuGYpKSTVYTkXdxftVT2Vdi3cF-nHe_BxJAD3XZNpdrahnMwQuiNPOawpYAUEZr7KxTMtXneFCyYwpCQD2PEeAzKdJcGjQrbOrBlW1RI-8azmrZmwZogA2DueA9P3B4wA_UpFxNO_zmPw-zfKVmQHZYFYVLFIY7lBiUoqjre6y9L9IvB3CM2x6mO8FQWdgLbSNJ4HCQrmea_ahuRtL-iXgf0iMzvmVmvzP0zADlChPeFxtLEOUsbXk3VIi15I%3D&hl=es-AR&kgs=9a064410f9cd0085&shndl=21&source=sh/x/fbx/m1/1&fbxst=CgkKByNlYjM0YmQ
+
+Backgrounds
+
+Covercons: https://covercons.vercel.app/
+Codioful: https://codioful.com/
+HeroPatterns: https://heropatterns.com/
+Haikei App: https://app.haikei.app/
+
+Propiedades CSS
+
+CSS References: https://cssreference.io/
+w3schools: https://www.w3schools.com/cssref/index.php
